@@ -15,8 +15,3 @@ Where:
 
 `/Transfer` - Specifies that this is a transfer
 `NameOfJob` - This is the name you give the download job, you can name this something that may blend in more as a background process to further reduce suspicion
-
-
-# Writing
-
-There is a
